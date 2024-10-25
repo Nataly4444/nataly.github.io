@@ -1,5 +1,6 @@
 # nataly.github.io
 
+[![codewars](https://www.codewars.com/users/Nataly4444/badges/large?theme=light)](https://www.codewars.com/users/Nataly4444)
 
 <html lang="en">
 <head>
