@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nataly4444&show_icons=true&theme=swift)
 
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?Nataly4444)
+
 [![codewars](https://www.codewars.com/users/Nataly4444/badges/large?theme=light)](https://www.codewars.com/users/Nataly4444)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nataly4444?theme=wtf&font=Kulim%20Park&ext=heatmap)
