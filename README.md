@@ -8,4 +8,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nataly4444&theme=light)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nataly4444&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nataly4444&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
