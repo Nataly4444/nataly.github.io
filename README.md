@@ -2,6 +2,7 @@
 
 [![codewars](https://www.codewars.com/users/Nataly4444/badges/large?theme=light)](https://www.codewars.com/users/Nataly4444)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Noto%20Sans%20Lepcha&ext=contest&site=cn)
 <html lang="en">
 <head>
     <meta charset="UTF-8">
