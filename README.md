@@ -4,5 +4,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nataly4444?theme=wtf&font=Kulim%20Park&ext=heatmap)
 
-markdown
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nataly4444&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
