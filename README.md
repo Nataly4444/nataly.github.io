@@ -2,7 +2,7 @@
 
 [![codewars](https://www.codewars.com/users/Nataly4444/badges/large?theme=light)](https://www.codewars.com/users/Nataly4444)
 
-![LeetCode Stats](https://leetcard.Nataly4444/Natalia?theme=light&font=Noto%20Sans%20Lepcha&ext=contest&site=cn)
+![LeetCode Stats](https://leetcard.Nataly4444/Nataly4444?theme=light&font=Noto%20Sans%20Lepcha&ext=contest&site=cn)
 
 
 <html lang="en">
