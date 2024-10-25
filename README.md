@@ -4,6 +4,9 @@
 
 ![LeetCode Stats](https://leetcard.Nataly4444/Nataly4444?theme=light&font=Noto%20Sans%20Lepcha&ext=contest&site=cn)
 
+![](https://leetcard.Nataly4444/leetcode?site=cn)
+
+![](https://leetcard.Nataly4444/jacoblincool?theme=unicorn)
 
 <html lang="en">
 <head>
