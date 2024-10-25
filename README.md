@@ -1,6 +1,6 @@
 # nataly.github.io
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nataly4444&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nataly4444&show_icons=true&theme=swift)
 
 [![codewars](https://www.codewars.com/users/Nataly4444/badges/large?theme=light)](https://www.codewars.com/users/Nataly4444)
 
